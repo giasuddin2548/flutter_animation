@@ -12,4 +12,8 @@ The **container transform** pattern is designed for transitions between UI eleme
 
 A widget that enables you to display a child after a delay and with beautiful fading and sliding animation.
 
-!["Container transform gallery - normal speed and slow motion"](https://raw.githubusercontent.com/ThomasEcalle/delayed_display/master/documentation/horizontal.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/ThomasEcalle/delayed_display/master/documentation/horizontal.gif" width="140" height="280" hspace="20"/>
+
+<img src="https://raw.githubusercontent.com/ThomasEcalle/delayed_display/master/documentation/vertical.gif" width="140" height="280" hspace="20"/>
+</p>
