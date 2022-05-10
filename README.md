@@ -1,16 +1,8 @@
-# animation_app
+# Usage Flutter Packages
 
-A new Flutter project.
 
-## Getting Started
+### animations 2.0.2
 
-This project is a starting point for a Flutter application.
+The **container transform** pattern is designed for transitions between UI elements that include a container. This pattern creates a visible connection between two UI elements.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+!["Container transform gallery - normal speed and slow motion"](example/demo_gifs/container_transform_lineup.gif)
